@@ -10,6 +10,10 @@ h2 {
     font-weight: lighter
 }
 
+h3 {
+    font-size: 25px;
+}
+
 p {
 font-family: sans-serif;
 }
@@ -17,4 +21,12 @@ font-family: sans-serif;
 ul {
     font-size: 20px;
     line-height: 30px;
+    font-weight: bold;
+}
+
+ol {
+    font-weight: bold;
+    color: darkgreen;
+    line-height: 30px;
+    font-size: 20px;
 }
