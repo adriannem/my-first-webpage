@@ -1,8 +1,8 @@
-# _My First WebPage_
+# My First WebPage
 
-#### _This is a web page created to practice basic HTML elements and CSS styling., May 24, 2016_
+#### This is a web page created to practice basic HTML elements and CSS styling., May 24, 2016
 
-#### By _**Adrianne Miller**_
+#### By **Adrianne Miller**
 
 ## Description
 
@@ -12,6 +12,7 @@ _This is a basic web page created to demonstrate skills in writing valid HTML5 a
 
 * _Clone this repository._
 * _Open the .html file in Google Chrome._
+* _Or you can simply view the site online by [clicking here](http://adriannem.github.io/my-first-webpage/)._
 
 _Make sure that your browser has been updated to view HTML5 files._
 
